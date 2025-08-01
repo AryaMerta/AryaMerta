@@ -5,9 +5,6 @@
 
 <img src="https://media.tenor.com/xvxS4C1wNZcAAAAM/marsha-lenathea-marsha-jeketi.gif" alt="Marsha Lenathea Lapian"  width="800%" />
 <br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryaMerta&theme=dark" width="800%" />
-</p>
 
 <br />
 
