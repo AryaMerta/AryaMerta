@@ -3,7 +3,7 @@
   <h3>JUNIOR DATA SIENCES</h3>
 </div>
 
-<img src="https://tenor.com/view/marsha-lenathea-marsha-jeketi-marsha-jkt48-maeng-matcha-gif-14338426436429297047" alt="angela christy"  width="800%" />
+<img src="https://media.tenor.com/xvxS4C1wNZcAAAAM/marsha-lenathea-marsha-jeketi.gif" alt="Marsha Lenathea Lapian"  width="800%" />
 <br />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AryaMerta&theme=dark" width="800%" />
