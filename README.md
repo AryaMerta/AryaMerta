@@ -7,10 +7,12 @@
 </p>
 <br />
     <div>
-      ## 🚀 Tentang Saya
-- 🔭 Saat ini fokus di penelitian tentang NLP & Sentiment Analysis  
-- 🌱 Belajar lebih dalam tentang Deep Learning (LSTM, TCN, GRU)  
-- 💡 Suka eksplorasi data, coding, dan eksperimen AI  
+      <p>
+      ## 🚀 Tentang Saya  
+      </p>
+      <p>- 🔭 Saat ini fokus di penelitian tentang NLP & Sentiment Analysis  </p>
+      <p>- 🌱 Belajar lebih dalam tentang Deep Learning (LSTM, TCN, GRU) </p>
+      <p>- 💡 Suka eksplorasi data, coding, dan eksperimen AI</p>  
     </div>
 
 ---
