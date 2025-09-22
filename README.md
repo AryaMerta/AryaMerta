@@ -18,25 +18,11 @@
 ---
 <br />
 ## 📊 Statistik
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical&hide_border=true" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 <br />
