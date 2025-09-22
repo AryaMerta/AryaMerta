@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Haloo, perkenalkan saya <h3/>
+  <h3>Hello, I'm <h3/>
   <h1>ARYA MERTA TIKA</h1>
 </div>
 <p align="center">
@@ -7,13 +7,12 @@
 </p>
 <br />
     <div>
-      <p>![Badge](https://img.shields.io/badge/🚀-Fast-blue)<p/>
       <p>
-      ## 🚀 Tentang Saya  
+      ## 🚀 About Me :  
       </p>
-      <p>- </p>
-      <p>- </p>
-      <p>- </p>  
+      <p>- 💡 Passionate about exploring various programming languages. </p>
+      <p>- 💡 Enjoy experimenting with coding, data, and artificial intelligence.</p>
+      <p>- 💡 Holds a Bachelor's degree in Informatics from <a link="https://instiki.ac.id/">INSTIKI<a/></p>  
     </div>
 
 ---
