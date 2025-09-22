@@ -7,9 +7,13 @@
 </p>
 <br />
 ## 🚀 Tentang Saya
+<br/>
 - 🔭 Saat ini fokus di penelitian tentang NLP & Sentiment Analysis  
+<br/>
 - 🌱 Belajar lebih dalam tentang Deep Learning (LSTM, TCN, GRU)  
+<br/>
 - 💡 Suka eksplorasi data, coding, dan eksperimen AI  
+<br/>
 
 ---
 <br />
