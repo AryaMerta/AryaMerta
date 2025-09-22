@@ -2,7 +2,7 @@
   <h1>ARYA MERTA TIKA</h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Banner" width="100%"/>
+<img src="[https://raw.githubusercontent.com/your-username/your-username/main/banner.png](https://avatars.githubusercontent.com/u/93662755?v=4)" alt="Banner" width="100%"/>
 
 <br />
 
