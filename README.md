@@ -1,9 +1,6 @@
 <div align="center">
   <h1>ARYA MERTA TIKA</h1>
-  <h3>JUNIOR DATA SIENCES</h3>
 </div>
-
-<img src="https://media.tenor.com/xvxS4C1wNZcAAAAM/marsha-lenathea-marsha-jeketi.gif" alt="Marsha Lenathea Lapian"  width="800%" />
 <br />
 
 <br />
