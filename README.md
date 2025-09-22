@@ -6,14 +6,12 @@
 <img src="https://raw.githubusercontent.com/AryaMerta/AryaMerta/main/img/pp.jpg" alt="Banner" width="40%" />  
 </p>
 <br />
-## 🚀 Tentang Saya
-<br/>
+    <div>
+      ## 🚀 Tentang Saya
 - 🔭 Saat ini fokus di penelitian tentang NLP & Sentiment Analysis  
-<br/>
 - 🌱 Belajar lebih dalam tentang Deep Learning (LSTM, TCN, GRU)  
-<br/>
 - 💡 Suka eksplorasi data, coding, dan eksperimen AI  
-<br/>
+    </div>
 
 ---
 <br />
