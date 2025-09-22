@@ -12,7 +12,7 @@
       </p>
       <p>- 💡 Passionate about exploring various programming languages. </p>
       <p>- 💡 Enjoy experimenting with coding, data, and artificial intelligence.</p>
-      <p>- 💡 Holds a Bachelor's degree in Informatics from <a link="https://instiki.ac.id/">INSTIKI<a/></p>  
+      <p>- 💡 Holds a Bachelor's degree in Informatics from <a href="https://instiki.ac.id/">INSTIKI<a/></p>  
     </div>
 
 ---
