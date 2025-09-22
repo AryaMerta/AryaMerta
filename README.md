@@ -7,12 +7,13 @@
 </p>
 <br />
     <div>
+      <p>![Badge](https://img.shields.io/badge/🚀-Fast-blue)<p/>
       <p>
       ## 🚀 Tentang Saya  
       </p>
-      <p>- 🔭 Saat ini fokus di penelitian tentang NLP & Sentiment Analysis  </p>
-      <p>- 🌱 Belajar lebih dalam tentang Deep Learning (LSTM, TCN, GRU) </p>
-      <p>- 💡 Suka eksplorasi data, coding, dan eksperimen AI</p>  
+      <p>- </p>
+      <p>- </p>
+      <p>- </p>  
     </div>
 
 ---
