@@ -2,7 +2,7 @@
   <h1>ARYA MERTA TIKA</h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/AryaMerta/AryaMerta/main/banner.png" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/AryaMerta/AryaMerta/main/img/pp.jpg" alt="Banner" width="100%"/>
 
 <br />
 
