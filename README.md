@@ -19,7 +19,7 @@
 <br />
 ## 📊 Statistik
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical" />
