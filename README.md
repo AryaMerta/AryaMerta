@@ -18,7 +18,7 @@
 ---
 <br />
 ## 📊 Statistik
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical"/>
 </div>
