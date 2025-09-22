@@ -1,6 +1,9 @@
 <div align="center">
   <h1>ARYA MERTA TIKA</h1>
 </div>
+
+<img width="260" height="108" alt="image" src="https://github.com/user-attachments/assets/709c3e4b-67d7-4cba-9526-48ea914138ec" />
+
 <br />
 
 <br />
