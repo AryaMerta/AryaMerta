@@ -18,9 +18,9 @@
 ---
 <br />
 ## 📊 Statistik
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical"/>
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical"/>
 
 ---
 <br />
