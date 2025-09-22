@@ -16,16 +16,14 @@
     </div>
 
 ---
-<br />
 ## 📊 Statistik
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical&hide_border=true" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical&hide_border=true" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical&hide_border=true" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
-<br />
 ## 🛠️ Tools & Skill
 <div>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
