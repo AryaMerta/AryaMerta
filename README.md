@@ -17,9 +17,9 @@
 
 ## 📊 Statistik
 <p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical&hide_border=true&card_height=400" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=AryaMerta&show_icons=true&theme=radical&hide_border=true&card_width=400" />
   &nbsp;&nbsp;
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical&hide_border=true&card_height=400" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaMerta&layout=compact&theme=radical&hide_border=true&card_width=400" />
 </p>
 
 ---
