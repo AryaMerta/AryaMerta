@@ -6,10 +6,8 @@
 <img src="https://raw.githubusercontent.com/AryaMerta/AryaMerta/main/img/pp.jpg" alt="Banner" width="40%" />  
 </p>
 <br />
+## 🚀 About Me :  
     <div>
-      <p>
-      ## 🚀 About Me :  
-      </p>
       <p>- 💡 Passionate about exploring various programming languages. </p>
       <p>- 💡 Enjoy experimenting with coding, data, and artificial intelligence.</p>
       <p>- 💡 Holds a Bachelor's degree in Informatics from <a href="https://instiki.ac.id/">INSTIKI<a/></p>  
